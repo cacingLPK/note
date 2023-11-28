@@ -46,3 +46,5 @@ EXPOSE 80
 
 # Run the Laravel application
 CMD php artisan serve --host=0.0.0.0 --port=80
+
+# ref: https://codepal.ai/dockerfile-writer.py/query/I9QBLl80/dockerfile-laravel-7-project-php-alpine
